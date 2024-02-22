@@ -1,12 +1,16 @@
-# ПРАКТИЧЕСКАЯ РАБОТА № 8
+# Практическая работа № 7
 
-## «Возможности CSS 3.0 для оформления веб-страниц»
+## ПРАКТИЧЕСКАЯ РАБОТА  «СОЗДАНИЕ ФОРМ НА WEB-СТРАНИЦЕ СРЕДСТВАМИ HTML С ИСПОЛЬЗОВАНИЕМ CSS»
 
-**Цель:** научиться использовать новые возможности CSS3 в дизайнерских целях, для вёрстки страниц
+**Цель:** научиться внедрять различные элементы форм в веб-страницы средствами HTML, используя различные стили CSS стилизовать отдельные элементы форм на веб-странице.
 
 **Задача:** 
-*  сделать ленточку с использованием средств CSS3. Ленточка очень хорошо смотрится и её можно подставлять к любым изображениям на сайте, она придаст красочности и наглядности изображениям на сайте;
-* необходимо создать фотогалерею с использованием CSS3 без использования JS.Суть такой фотогалереи в том, что мы с помощью CSS3 добавляем изображениям маленькую анимацию, а именно при наведении указателя мыши на изображение оно увеличивается и приближается к пользователю, так и возникает плавная анимация. Также для красоты добавим тени к изображениям и проявление непрозрачности. 
-<div align="center"><img src="https://github.com/fufaev/css_lesson6/blob/main/examples/ex2.png" alt="образец" width="350">&nbsp; <img src="https://github.com/fufaev/css_lesson6/blob/main/examples/ex1.png" alt="образец" width="250"><br><br>
-<img src="https://github.com/fufaev/css_lesson6/blob/main/examples/ex3.png" alt="образец" width="700"><br><img src="https://github.com/fufaev/css_lesson6/blob/main/examples/ex4.png" alt="образец" width="700">
-</div>
+* используя готовую вёрстку веб-формы в HTML стилизуйте в таблице стилей остальные элементы формы: form, input, legend – настроив размер, отступы, расположение и внутренние отступы соответственно, там, где это требуется (в соответствии с образцом).
+* Стилизуйте в таблице стилей универсальные классы: .account-info, .account-info label, .account-info input, .account-info select, .account-action, .account-action .btn, .account-action label, input[type="text"], input[type="email"],  select, textarea используемые для более точной настройки отдельных элементов  формы в соответствии с образцом:
+<div align="center"><img src="https://github.com/fufaev/html_lesson4/blob/main/page%20examples/example-1.jpg" alt="образец" width="350"><img src="https://github.com/fufaev/html_lesson4/blob/main/page%20examples/example-2.jpg" alt="образец" width="350"></div>
+
+## Самостоятельная работа
+* На основании скриншота сверстать страничку с формой регистрации.
+<p align="center">
+<img src="https://github.com/fufaev/html_lesson4/blob/main/page%20examples/vk.jpg"></p>
+
