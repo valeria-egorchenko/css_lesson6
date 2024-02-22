@@ -1,0 +1,169 @@
+body{
+    font-family: Verdana;       
+}
+
+h1{
+    font-size: 22px;
+    color: rgba(80, 118, 155, 1); 
+    font-weight:400;
+    margin-bottom: 19px;
+}
+h2{
+    font-size: 20px;
+    color:rgba(80, 118, 155, 1);
+    margin-top: 20px;  
+    margin-bottom: 20px; 
+}
+.education{
+    font-size: 20px;
+    color:rgba(80, 118, 155, 1);
+    margin-top: 14px;  
+    margin-bottom: 19px; 
+}
+h3{
+    font-size: 16px;
+    color: rgba(80, 118, 155, 1);  
+    margin-top: 52px;
+    margin-bottom: 15px;
+}
+h4{
+    font-size: 16px;    
+    color: rgba(80, 118, 155, 1);  
+    margin-top: 14px;
+    margin-bottom: 15px;
+}
+
+.line{    
+    border-bottom: 3px solid rgba(230, 235, 241, 1);
+}
+.line2{   
+    border-bottom: 3px solid rgba(230, 235, 241, 1);
+}
+.container {
+    display: flex;
+    align-items: center;
+}
+
+img {
+    margin-top: 9px;
+    margin-left: 8px;
+    margin-right: 14px; /* Устанавливаем отступ справа от изображения */
+    width: 37px;
+    height: 36px;
+}
+p{
+    font-family: Verdana;
+    font-size: 16px;
+    
+    margin-top: 18px;
+    margin-bottom: 8px;
+    
+}
+div.field {    
+    margin-bottom: 20px;
+  }
+div.field label {
+    display: block;
+    float: left;
+    width: 80px;
+    height: 26px;
+    margin-top: 3px;
+    text-align: right;
+    margin-right: 6px;
+    font-size: 16px;
+    color: #787878;
+    
+   }
+
+input{
+    padding-bottom: 4px;
+    padding-top: 4px;
+    padding-right: 45px;
+}
+input[type="password"]{
+    margin-bottom: 45px;
+}
+form{
+    margin-top: 21px;
+}
+
+select{
+    background: #fff;
+    border: 1px solid #c6c7cc;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .1);
+    color: black;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: 14px;
+    text-align: right;
+    margin-top: -3px; 
+    font-size: 16px;
+        
+  }
+select option{
+    font-size:16px;
+    text-align: left;
+  }
+.country{
+    margin-left: 21px;
+    font-size: 16px;
+    color: #787878;
+}
+.city{
+    margin-left: 33px;
+    font-size: 16px;
+    color: #787878;
+
+}
+.city select{
+    margin-top:5px;
+ 
+}
+
+.school{
+    margin-left: 22px;
+    font-size: 16px;
+    color: #787878;
+}
+
+
+form .University{
+    margin-left:51px;
+    margin-top: 4px;
+    font-size: 16px;
+    color: #787878;
+}
+.btn{
+    padding: 3px 47px 3px 47px;
+    margin-top: 32px;
+    margin-left: 41px;
+    font-size: 17px;
+}
+div.field abbr {    
+    font-size: 13px;
+    color: rgb(162, 162, 162);
+    margin-left: 3px;
+    padding-top: 24px;
+}
+.qwe{
+    color: #c6c7cc;
+    padding-left: 43px;
+    font-size: 12px;
+    margin-top: 1px;
+    
+}
+.qwe a{
+    text-decoration: none;
+    color: rgb(7, 90, 159);
+}
+.asd{
+    color: #444444;
+    padding-left: 97px;
+    font-size: 12px;
+    margin-top: -1px;
+}
+
+
+
+
+ 
